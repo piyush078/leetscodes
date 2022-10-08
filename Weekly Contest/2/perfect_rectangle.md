@@ -12,7 +12,7 @@ Return <code>true</code> <i>if all the rectangles together form an exact cover o
 <br>
 <p>
 <strong>Example 1:</strong>
-
+<br>
 <img src="https://assets.leetcode.com/uploads/2021/03/27/perectrec1-plane.jpg" style="width: 300px; height: 294px;" />
 <pre>
 <strong>Input:</strong> rectangles = [[1,1,3,3],[3,1,4,2],[3,2,4,4],[1,3,2,4],[2,3,3,4]]
@@ -22,7 +22,7 @@ Return <code>true</code> <i>if all the rectangles together form an exact cover o
 </p>
 <p>
 <strong>Example 2:</strong>
-
+<br>
 <img src="https://assets.leetcode.com/uploads/2021/03/27/perfectrec2-plane.jpg" style="width: 300px; height: 294px;" />
 <pre>
 <strong>Input:</strong> rectangles = [[1,1,2,3],[1,3,2,4],[3,1,4,2],[3,2,4,4]]
@@ -32,7 +32,7 @@ Return <code>true</code> <i>if all the rectangles together form an exact cover o
 </p>
 <p>
 <strong>Example 3:</strong>
-
+<br>
 <img src="https://assets.leetcode.com/uploads/2021/03/27/perfectrec3-plane.jpg" style="width: 300px; height: 294px;" />
 <pre>
 <strong>Input:</strong> rectangles = [[1,1,3,3],[3,1,4,2],[1,3,2,4],[2,2,4,4]]
