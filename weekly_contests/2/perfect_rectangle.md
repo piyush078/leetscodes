@@ -1,6 +1,9 @@
 <h2><a href="https://leetcode.com/problems/perfect-rectangle/">391. Perfect Rectangle</a></h2>
 <hr>
 <p>
+<a href="./perfect_rectangle.cpp">Solution</a>
+</p>
+<p>
 Given an array <code>rectangles</code> where <code>rectangles[i] = [x<sub>i</sub>, y<sub>i</sub>, a<sub>i</sub>, b<sub>i</sub>]</code> represents an axis-aligned rectangle. The bottom-left point of the rectangle is <code>(x<sub>i</sub>, y<sub>i</sub>)</code> and the top-right point of it is <code>(a<sub>i</sub>, b<sub>i</sub>)</code>.
 
 Return <code>true</code> <i>if all the rectangles together form an exact cover of a rectangular region.</i>
