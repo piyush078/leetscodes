@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/remove-k-digits/">402. Remove K Digits</a></h2>
-<hr>
 <p>
 <a href="./remove_k_digits.cpp">Solution</a>
 </p>

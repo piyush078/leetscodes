@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/">395. Longest Substring with At Least K Repeating Characters</a></h2>
-<hr>
 <p>
 <a href="./longest_substring_with_at_least_k_repeating_characters.cpp">Solution</a>
 </p>

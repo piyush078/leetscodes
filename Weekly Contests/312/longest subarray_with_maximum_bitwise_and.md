@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/">2419. Longest Subarray With Maximum Bitwise AND</a></h2>
-<hr>
 <p>
 <a href="./longest subarray_with_maximum_bitwise_and.cpp">Solution</a>
 </p>

@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/nth-digit/">400. Nth Digit</a></h2>
-<hr>
 <p>
 <a href="./nth_digit.cpp">Solution</a>
 </p>

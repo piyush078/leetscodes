@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/perfect-rectangle/">391. Perfect Rectangle</a></h2>
-<hr>
 <p>
 <a href="./perfect_rectangle.cpp">Solution</a>
 </p>

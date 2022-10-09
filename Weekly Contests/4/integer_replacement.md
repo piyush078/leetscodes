@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/integer-replacement/">397. Integer Replacement</a></h2>
-<hr>
 <p>
 <a href="./integer_replacement.cpp">Solution</a>
 </p>

@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/contest/weekly-contest-312/">Contest 312</a></h2>
-<hr>
 <p>
 Problem list:
 <ul>

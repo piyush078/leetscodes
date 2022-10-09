@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/">2415. Reverse Odd Levels of Binary Tree</a></h2>
-<hr>
 <p>
 <a href="./reverse_odd_levels_of_binary_tree.cpp">Solution</a>
 </p>

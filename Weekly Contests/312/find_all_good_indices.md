@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/find-all-good-indices/">2420. Find All Good Indices</a></h2>
-<hr>
 <p>
 <a href="./find_all_good_indices.cpp">Solution</a>
 </p>

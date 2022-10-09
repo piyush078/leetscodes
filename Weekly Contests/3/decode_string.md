@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/decode-string/">394. Decode String</a></h2>
-<hr>
 <p>
 <a href="./decode_string.cpp">Solution</a>
 </p>

@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/">2414. Length of the Longest Alphabetical Continuous Substring</a></h2>
-<hr>
 <p>
 <a href="./length_of_the_longest_alphabetical_continuous_substring.cpp">Solution</a>
 </p>

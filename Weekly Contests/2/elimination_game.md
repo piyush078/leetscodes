@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/elimination-game/">390. Elimination Game</a></h2>
-<hr>
 <p>
 <a href="./elimination_game.cpp">Solution</a>
 </p>

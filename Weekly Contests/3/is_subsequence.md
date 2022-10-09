@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/is-subsequence/">392. Is Subsequence</a></h2>
-<hr>
 <p>
 <a href="./is_subsequence.cpp">Solution</a>
 </p>

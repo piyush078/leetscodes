@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/rotate-function/">396. Rotate Function</a></h2>
-<hr>
 <p>
 <a href="./rotate_function.cpp">Solution</a>
 </p>

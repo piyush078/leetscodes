@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/find-the-difference/">389. Find the Difference</a></h2>
-<hr>
 <p>
 <a href="./find_the_difference.cpp">Solution</a>
 </p>

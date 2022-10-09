@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/smallest-even-multiple/">2413. Smallest Even Multiple</a></h2>
-<hr>
 <p>
 <a href="./smallest_even_multiple.cpp">Solution</a>
 </p>

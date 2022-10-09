@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/sum-of-prefix-scores-of-strings/">2416. Sum of Prefix Scores of Strings</a></h2>
-<hr>
 <p>
 <a href="./sum_of_prefix_scores_of_strings.cpp">Solution</a>
 </p>

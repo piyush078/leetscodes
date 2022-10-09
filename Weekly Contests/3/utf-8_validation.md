@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/perfect-rectangle/">393. UTF-8 Validation</a></h2>
-<hr>
 <p>
 <a href="./utf-8_validation.cpp">Solution</a>
 </p>

@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/random-pick-index/">398. Random Pick Index</a></h2>
-<hr>
 <p>
 <a href="./random_pick_index.cpp">Solution</a>
 </p>

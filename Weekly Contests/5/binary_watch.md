@@ -1,5 +1,4 @@
 <h2><a href="https://leetcode.com/problems/binary-watch/">401. Binary Watch</a></h2>
-<hr>
 <p>
 <a href="./binary_watch.cpp">Solution</a>
 </p>
