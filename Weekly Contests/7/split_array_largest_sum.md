@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-array-largest-sum/">410. Split Array Largest Sum<p>
+<h2><a href="https://leetcode.com/problems/split-array-largest-sum/">410. Split Array Largest Sum</a></h2><p>
 <a href="./split_array_largest_sum.cpp">Solution</a>
 </p>
 <div>
