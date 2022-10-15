@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/contest/leetcode-weekly-contest-5/">Contest 5</a></h2>
+<h2><a href="https://leetcode.com/contest/leetcode-weekly-contest-6/">Contest 6</a></h2>
 <p>
 Problem list:
 <ul>
