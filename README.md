@@ -14,4 +14,12 @@ Codes from Leetcode
 | <a href="https://leetcode.com/contest/leetcode-weekly-contest-8/">Weekly Contest 8</a> | 3/4\*     | <a href="./Weekly Contests/8/">Link</a>   | <a href="https://leetcode.com/contest/leetcode-weekly-contest-9/">Weekly Contest 9</a> | 2/4\*     | <a href="./Weekly Contests/9/">Link</a>   |
 | <a href="https://leetcode.com/contest/weekly-contest-312/">Weekly Contest 312</a>      | 3/4       | <a href="./Weekly Contests/312/">Link</a> | <a href="https://leetcode.com/contest/weekly-contest-312/">Weekly Contest 312</a>      | 3/4       | <a href="./Weekly Contests/312/">Link</a> |
 
+### Smarking Algorithm Contests
+
+<hr>
+
+| Contest Number                                                                                    | Completed | Solutions                                           |
+| ------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- |
+| <a href="https://leetcode.com/contest/smarking-algorithm-contest/">Smarking Algorithm Contest</a> | 3/4\*     | <a href="./Smarking Algorithm Contests/1/">Link</a> |
+
 <sup>\*</sup> Some questions are premium so could not be solved
