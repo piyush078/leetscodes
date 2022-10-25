@@ -18,8 +18,8 @@ Codes from Leetcode
 
 <hr>
 
-| Contest Number                                                                                    | Completed | Solutions                                           |
-| ------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- |
-| <a href="https://leetcode.com/contest/smarking-algorithm-contest/">Smarking Algorithm Contest</a> | 3/4\*     | <a href="./Smarking Algorithm Contests/1/">Link</a> |
+| Contest Number                                                                                    | Completed | Solutions                                           | Contest Number                                                                                        | Completed | Solutions                                           |
+| ------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------- |
+| <a href="https://leetcode.com/contest/smarking-algorithm-contest/">Smarking Algorithm Contest</a> | 3/4\*     | <a href="./Smarking Algorithm Contests/1/">Link</a> | <a href="https://leetcode.com/contest/smarking-algorithm-contest-2/">Smarking Algorithm Contest 2</a> | 3/4\*     | <a href="./Smarking Algorithm Contests/2/">Link</a> |
 
 <sup>\*</sup> Some questions are premium so could not be solved
