@@ -19,6 +19,7 @@ Codes from Leetcode
 | <a href="https://leetcode.com/contest/leetcode-weekly-contest-17/">Weekly Contest 17</a>   | 2/3\*     | <a href="./Weekly Contests/17/">Link</a>  | <a href="https://leetcode.com/contest/leetcode-weekly-contest-18a/">Weekly Contest 18A</a> | 3/3       | <a href="./Weekly Contests/18A/">Link</a> |
 | <a href="https://leetcode.com/contest/leetcode-weekly-contest-18b/">Weekly Contest 18B</a> | 4/4       | <a href="./Weekly Contests/18B/">Link</a> | <a href="https://leetcode.com/contest/leetcode-weekly-contest-19/">Weekly Contest 19</a>   | 4/4       | <a href="./Weekly Contests/19/">Link</a>  |
 | <a href="https://leetcode.com/contest/leetcode-weekly-contest-20/">Weekly Contest 20</a>   | 4/4       | <a href="./Weekly Contests/20/">Link</a>  | <a href="https://leetcode.com/contest/leetcode-weekly-contest-21/">Weekly Contest 21</a>   | 4/4       | <a href="./Weekly Contests/21/">Link</a>  |
+| <a href="https://leetcode.com/contest/leetcode-weekly-contest-22/">Weekly Contest 22</a>   | 2/4\*     | <a href="./Weekly Contests/22/">Link</a>  | <a href="https://leetcode.com/contest/leetcode-weekly-contest-23/">Weekly Contest 23</a>   | 2/4\*     | <a href="./Weekly Contests/23/">Link</a>  |
 | <a href="https://leetcode.com/contest/weekly-contest-311/">Weekly Contest 311</a>          | 4/4       | <a href="./Weekly Contests/311/">Link</a> | <a href="https://leetcode.com/contest/weekly-contest-312/">Weekly Contest 312</a>          | 3/4       | <a href="./Weekly Contests/312/">Link</a> |
 
 ### Smarking Algorithm Contests
